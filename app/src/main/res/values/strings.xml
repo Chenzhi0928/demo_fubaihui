@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="back">返回</string>
+    <string name="register">注册</string>
+    <string name="submit">提交</string>
+    <string name="forgetPaw">忘记密码</string>
+</resources>
